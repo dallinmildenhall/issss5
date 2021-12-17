@@ -1,0 +1,57 @@
+.box4 {
+    padding-left: 100px;
+    margin: 100px;
+}
+
+
+p{
+    font-family: Calibri
+}
+
+
+
+body {
+    background-color: ivory;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+a:hover {
+    text-decoration: underline;
+    text-decoration: bold;
+}
+
+
+.box5 {
+    
+    padding-left: 08px;
+    padding-right: 209px;
+    margin: 100px;
+}
+
+.box6 {
+    padding-left: 104px;
+    padding-right: 0px;
+    margin: 25px;
+    
+}
+
+.font1 {
+    font-family: sans-serif
+}
+
+
+.font2 {
+    font-family: monospace
+}
+
+.resalign {
+    text-align: center;
+}
+
+
+.resbold {
+    font-weight: bold;
+    font-style: normal
+}
+

@@ -1,0 +1,64 @@
+.common {
+    background-color: beige
+    position: absolute;
+}
+
+.header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    z-index: 2;
+}
+
+.subheader {
+    float: right;
+}
+
+.subheadertwo {
+    float: left;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: #575757;
+    background-color: beige;
+    text-align: center
+}
+
+
+a:hover {
+    text-decoration: underline;
+    text-decoration: bold;
+}
+
+
+a:visited {
+    color: green;
+}
+
+
+.mainbody {
+    top: 400px;
+    bottom: 314px;
+    left: 414px;
+    right: 414px;
+    padding-right: 300px;
+    padding-left: 300px;
+}
+
+.footer {
+    bottom: 5px;
+    height: 10px;
+    left: 5px;
+    right: 5px;
+    font-size: 8px;
+    color: #999999;
+    text-align: center;
+    position: fixed;
+
+
+
+
+
+
